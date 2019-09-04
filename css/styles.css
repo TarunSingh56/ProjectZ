@@ -1,4 +1,9 @@
-.slide-image{
+body{
+  background-color: blue;
+
+}
+
+  .slide-image{
   width: 100%;
 
 }
